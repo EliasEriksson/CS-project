@@ -1,0 +1,5 @@
+/home/elias-eriksson/Documents/miun/webbutveckling/ProgrammeringC#.net/Moment5/App/App/bin/Debug/net5.0/publish/App
+/home/elias-eriksson/Documents/miun/webbutveckling/ProgrammeringC#.net/Moment5/App/App/bin/Debug/net5.0/publish/App.dll
+/home/elias-eriksson/Documents/miun/webbutveckling/ProgrammeringC#.net/Moment5/App/App/bin/Debug/net5.0/publish/App.deps.json
+/home/elias-eriksson/Documents/miun/webbutveckling/ProgrammeringC#.net/Moment5/App/App/bin/Debug/net5.0/publish/App.runtimeconfig.json
+/home/elias-eriksson/Documents/miun/webbutveckling/ProgrammeringC#.net/Moment5/App/App/bin/Debug/net5.0/publish/App.pdb
